@@ -1,0 +1,7 @@
+*.o
+tags
+moc_*
+.qm/
+Makefile
+ui_*
+upnpcontrol
