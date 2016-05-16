@@ -3,6 +3,7 @@
 
 #include <vector>
 #include <QUdpSocket>
+#include <stdint.h>
 
 class UPnPRouter;
 class QUrl;
